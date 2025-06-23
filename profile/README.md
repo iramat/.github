@@ -7,7 +7,7 @@
 ## 🧮 RIAI
 > les Rencontres de l'Informatique pour l'Archéologie à l'IRAMAT
 
-L'IRAMAT ogranise les rencontres RIAI les 2e mardi de chaque mois sur ZOOM, le matin entre 10:00 et 10:50, sur un thème lié à l'informatique pour l'archéologie et l'archéométrie. Les liens ZOOM et la description des séances sont disponibles sur le calendrier Gogle Calendar ci-dessous (cliquez dessus ou [ici](https://iramat.github.io/iramat-dev/admin/calendrier.html)).
+L'IRAMAT organise des réunions RIAI le 2e mardi de chaque mois sur ZOOM, le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l'agenda Google ci-dessous (cliquez dessus ou [ici](https://iramat.github.io/iramat-dev/admin/calendrier.html)).
 
 <p align="center">
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
