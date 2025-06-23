@@ -5,9 +5,9 @@
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
 
 ## 🧮 WIAI
-> WIAI, Wébinaires de l'Informatique pour l'Archéologie à l'IRAMAT
+> WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
 
-L'IRAMAT organise les wébinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois sur ZOOM, le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l'agenda Google ci-dessous (cliquez dessus ou [ici](https://iramat.github.io/iramat-dev/admin/calendrier.html)).
+L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois sur ZOOM, le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l'agenda Google ci-dessous (cliquez dessus ou [ici](https://iramat.github.io/iramat-dev/admin/calendrier.html)).
 
 <p align="center">
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
