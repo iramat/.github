@@ -11,7 +11,7 @@ L'IRAMAT ogranise les rencontres RIAI les 2e mardi de chaque mois sur ZOOM, le m
 
 <p align="center">
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/iramat/iramat-dev/master/img/admin-calendrier.png" width="450">
+    <img src="https://raw.githubusercontent.com/iramat/iramat-dev/master/img/admin-calendrier.png" width="500">
   </a>
 </p>
 
