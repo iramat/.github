@@ -17,10 +17,10 @@ L'IRAMAT ogranise les rencontres RIAI les 2e mardi de chaque mois sur ZOOM, le m
 
 ### Les séances
 
-#### Programées
+#### Programmées
 
-- Mardi 8 juillet 2025, 10:00 - 10:50: Présentation de GitHub : la communauté archéologique sur GitHub, le système Git et le développement logiciel, l'organisation `iramat`sur GitHub, comment contribuer, etc.
-- Mardi 7 octobre 2025, 10:00 - 10:50: Présentation du package R `iRamat` : motivations, installer le package, utiliser les fonctions, contribuer, etc.
+- **Présentation de GitHub** - Mardi 8 juillet 2025, 10:00 - 10:50
+- **Présentation du package R `iRamat`** - Mardi 7 octobre 2025, 10:00 - 10:50
 
 #### A prévoir
 
