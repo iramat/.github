@@ -4,8 +4,8 @@
 - [iramat-functions](https://github.com/iramat/iramat-functions) pour les fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
 
-## Les Rendez-Vous de l'Info
-> Les RDV de l'informatique
+## 🧮 RIAI
+> les Rencontres de l'Informatique pour l'Archéologie à l'IRAMAT
 
 Cliquer sur le calendrier pour voir les points d'informations autour des développements informatique à l'Iramat
 
