@@ -21,6 +21,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 
 - [**Présentation de GitHub**](https://iramat.github.io/iramat-dev/talks/2025-wiai-github/pres) - Mardi 8 juillet 2025, 10:00 - 10:50
 - **Présentation du package R `iRamat`** - Mardi 7 octobre 2025, 10:00 - 10:50
+- **Présentation de la BDD 'CHIPS'**  - Mardi 9 décembre 2025, 10:00 - 10:50
 
 #### A prévoir
 
