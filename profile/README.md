@@ -3,6 +3,7 @@
 - [iramat-dev](https://github.com/iramat/iramat-dev) pour le développement informatique
 - [iramat-functions](https://github.com/iramat/iramat-functions) pour les fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
+- [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
 
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
