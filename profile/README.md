@@ -36,4 +36,5 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 
 ---
 
-[Présentation "Gestion des données"](https://iramat.github.io/iramat-dev/talks/2025-iramat-ag/pres)
+- [Présentation "Gestion des données"](https://iramat.github.io/iramat-dev/talks/2025-iramat-ag/pres)
+- [Présentation Thomas Huet](https://github.com/iramat/iramat-dev/blob/main/talks/2025-iramat-ag/IRAMAT%20AG%202025.pdf)
