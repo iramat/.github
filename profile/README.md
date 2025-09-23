@@ -34,4 +34,6 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 - Utiliser Python et Jupyter Notebook
 
 
+---
 
+[Présentation "Gestion des données"](https://iramat.github.io/iramat-dev/talks/2025-iramat-ag/pres)
