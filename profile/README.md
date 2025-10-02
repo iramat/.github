@@ -25,7 +25,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 
 #### Programmées
 
-- **Présentation du package R `iRamat`** - Mardi 7 octobre 2025, 10:00 - 10:50
+- **Présentation du package R `iRamat`** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-iRamat/pres) - Mardi 7 octobre 2025, 10:00 - 10:50
 - **Présentation de la BDD 'CHIPS'**  - Mardi 9 décembre 2025, 10:00 - 10:50
 
 #### A prévoir
@@ -33,8 +33,3 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 - Présentation du cadre IIIF (_International Image Interoperability Framework_)
 - Utiliser Python et Jupyter Notebook
 
-
----
-
-- [Présentation "Gestion des données"](https://iramat.github.io/iramat-dev/talks/2025-iramat-ag/pres)
-- [Présentation Thomas Huet](https://github.com/iramat/iramat-dev/blob/main/talks/2025-iramat-ag/IRAMAT%20AG%202025.pdf)
