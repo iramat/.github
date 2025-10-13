@@ -30,6 +30,6 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 
 #### A prévoir
 
-- Présentation du cadre IIIF (_International Image Interoperability Framework_)
+- Présentation du cadre IIIF - 🚧[support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres)🚧 
 - Utiliser Python et Jupyter Notebook
 
