@@ -1,9 +1,15 @@
 # Organisation du GitHub
 
-- [iramat-dev](https://github.com/iramat/iramat-dev) pour le développement informatique
+- [iramat-dev](https://github.com/iramat/iramat-dev) pour le développement informatique (**général**)
 - [iramat-functions](https://github.com/iramat/iramat-functions) pour les fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
 - [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
+
+_ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
+
+- [ANR ALMACIR](https://github.com/iramat/almacir-private) pour le développement de l'infrastructure IT de l'ANR ALMACIR
+- [BDD AeMA](https://github.com/iramat/aema-private) pour le développement de la base des données AeMA
+- [iRamat-private](https://github.com/iramat/iRamat-private) pour la mutualisation du code R
 
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
