@@ -4,7 +4,7 @@
 - [iramat-functions](https://github.com/iramat/iramat-functions) pour les fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
 - [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
-- [almacir](https://github.com/almacir/chips) pour l'ANR ALMACIR
+- [almacir](https://github.com/iramat/almacir) pour l'ANR ALMACIR
 
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
