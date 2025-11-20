@@ -5,8 +5,10 @@
 - [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
 - [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
 - [almacir](https://github.com/iramat/almacir) pour l'ANR ALMACIR
+  
+_ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
-- [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique
+- [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
 
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
