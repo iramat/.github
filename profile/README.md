@@ -6,6 +6,8 @@
 - [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
 - [almacir](https://github.com/iramat/almacir) pour l'ANR ALMACIR
 
+- [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique
+
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [ANR ALMACIR](https://github.com/iramat/almacir-private) pour le développement de l'infrastructure IT de l'ANR ALMACIR
