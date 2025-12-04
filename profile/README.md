@@ -25,7 +25,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
     <img src="https://raw.githubusercontent.com/iramat/iramat-dev/master/img/admin-calendrier.png" width="500">
   </a><br>
-  <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">Agenda WIAI</a>
+  <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">Agenda avec les liens ZOOM</a>
 </p>
 
 ### Les séances
