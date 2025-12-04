@@ -19,7 +19,7 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ .
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
 
-L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois sur ZOOM, le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l' **agenda ci-dessous**.
+L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois, tous les deux mois, et sur ZOOM le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l' **agenda ci-dessous**.
 
 <p align="center">
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
