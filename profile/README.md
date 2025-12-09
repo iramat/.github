@@ -16,6 +16,10 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ .
 - [BDD AeMA](https://github.com/iramat/aema-private) pour le développement de la base des données AeMA
 - [iRamat-private](https://github.com/iramat/iRamat-private) pour la mutualisation du code R
 
+## Actualités
+
+Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, 13:30 - 16:30, salle de réunion du LAPA. 
+
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
 
