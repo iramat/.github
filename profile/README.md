@@ -9,6 +9,7 @@
 _ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
+- [collec-science](https://github.com/iramat/collec-science) gestion des collections d'échantillon (_fork_ de [collec-science](https://github.com/collec-science/collec-science))
 
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
