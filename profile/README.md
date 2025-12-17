@@ -43,7 +43,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de
 
 #### Programmées
 
-- Présentation du cadre IIIF - 🚧[support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres)🚧 [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-chips/pres) | video - Mardi 10 Mars 2026, 10:00 - 10:50
+- Présentation du cadre IIIF - 🚧[support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres)🚧 | video - Mardi 10 Mars 2026, 10:00 - 10:50
 
 #### A prévoir
 
