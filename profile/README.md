@@ -1,10 +1,10 @@
 # Organisation du GitHub
 
-- [iramat-dev](https://github.com/iramat/iramat-dev) pour le développement informatique (**général**)
-- [iramat-functions](https://github.com/iramat/iramat-functions) pour les fonctions Python (infrastructure)
-- [iRamat](https://github.com/iramat/iRamat) pour les fonctions R (analyse de données)
-- [chips](https://github.com/iramat/chips) pour la mise en base des données physico-chimiques
-- [almacir](https://github.com/iramat/almacir) pour l'ANR ALMACIR
+- [iramat-dev](https://github.com/iramat/iramat-dev) développement informatique (**général**)
+- [iramat-functions](https://github.com/iramat/iramat-functions) fonctions Python (infrastructure)
+- [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
+- [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
+- [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
   
 _ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
@@ -13,9 +13,10 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
-- [ANR ALMACIR](https://github.com/iramat/almacir-private) pour le développement de l'infrastructure IT de l'ANR ALMACIR
-- [BDD AeMA](https://github.com/iramat/aema-private) pour le développement de la base des données AeMA
-- [iRamat-private](https://github.com/iramat/iRamat-private) pour la mutualisation du code R
+- [ANR ALMACIR](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
+- [BDD AeMA](https://github.com/iramat/aema-private) développement de la base des données AeMA
+- [iRamat-private](https://github.com/iramat/iRamat-private) mutualisation du code R
+- [daq_iramat](https://github.com/iramat/daq_iramat) développement de PyMoDAQ pour l'instrumentation de l'IRAMAT
 
 ## Actualités
 
