@@ -13,8 +13,8 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
 _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
-- [ANR ALMACIR](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
-- [BDD AeMA](https://github.com/iramat/aema-private) développement de la base des données AeMA
+- [almacir-private](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
+- [aema-private](https://github.com/iramat/aema-private) développement de la base des données AeMA
 - [iRamat-private](https://github.com/iramat/iRamat-private) mutualisation du code R
 - [daq_iramat](https://github.com/iramat/daq_iramat) développement de PyMoDAQ pour l'instrumentation de l'IRAMAT
 
