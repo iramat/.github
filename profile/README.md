@@ -20,7 +20,7 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ .
 
 ## Actualités
 
-- Le IIIF aux JDD [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) 
+- Le IIIF à la Journée des doctorants de l'IRAMAT - [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) 
 - Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, 13:30 - 16:30, salle de réunion du LAPA. 
 
 ## 🧮 WIAI
