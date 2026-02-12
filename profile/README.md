@@ -20,7 +20,8 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ .
 
 ## Actualités
 
-Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, 13:30 - 16:30, salle de réunion du LAPA. 
+- Le IIIF aux JDD [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) 
+- Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, 13:30 - 16:30, salle de réunion du LAPA. 
 
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
