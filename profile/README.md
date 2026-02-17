@@ -26,15 +26,13 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ .
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
 
-L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois, tous les deux mois, et sur ZOOM le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l' **agenda ci-dessous**.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=iramatdatabase%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2e mardi de chaque mois, tous les deux mois, **en visio**, le matin entre 10h00 et 10h50, sur un thème lié aux technologies de l'information pour l'archéologie et l'archéométrie. Les liens ZOOM et les descriptions des sessions sont disponibles dans l' **agenda ci-dessous**.
 
 <p align="center">
   <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">
     <img src="https://raw.githubusercontent.com/iramat/iramat-dev/master/img/admin-calendrier.png" width="500">
   </a><br>
-  <a href="https://iramat.github.io/iramat-dev/admin/calendrier.html" target="_blank">Agenda avec les liens ZOOM</a>
+  <a href="https://iramat-apps.cnrs.fr/portal/#calendar" target="_blank">Agenda avec les liens visio</a>
 </p>
 
 ### Les séances
