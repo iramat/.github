@@ -39,7 +39,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 
 #### Programmées
 
-- **Présentation de Jupyter Notebook**: présentations web, interactives (APIs, IIIF, _geoweb_, etc.), et orientées "document de données" (_data-driven_) avec Python et Markdown - Mardi 5 Mai 2026, 10:00 - 10:50
+- **Présentation de Jupyter Notebook**: présentations web, interactives (APIs, IIIF, _geoweb_, etc.), et orientées "document de données" (_data-driven document_) avec Python et Markdown - Mardi 5 Mai 2026, 10:00 - 10:50
 
 #### A prévoir
 
