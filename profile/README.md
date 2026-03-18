@@ -7,8 +7,8 @@
 - projets
   - [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
   - [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
- 
-  - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
+
+_ - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
 - [almacir-private](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
