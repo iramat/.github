@@ -3,7 +3,7 @@
 - [iramat-dev](https://github.com/iramat/iramat-dev) développement informatique (**général**)
 - [iramat-functions](https://github.com/iramat/iramat-functions) fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
-- [iramat-apps](https://github.com/iramat/iramat-apps) documentation des applications hebergées sur le serveur iramat-apps.cnrs.fr (voir https://iramat-apps.cnrs.fr/portal/)
+- [iramat-apps](https://github.com/iramat/iramat-apps) documentation des applications hebergées sur le serveur `iramat-apps.cnrs.fr`
 - projets
   - [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
   - [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
