@@ -3,25 +3,22 @@
 - [iramat-dev](https://github.com/iramat/iramat-dev) développement informatique (**général**)
 - [iramat-functions](https://github.com/iramat/iramat-functions) fonctions Python (infrastructure)
 - [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
-- [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
-- [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
-  
-_ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
+- [iramat-apps](https://github.com/iramat/iramat-apps) documentation des applications hebergées sur le serveur iramat-apps.cnrs.fr (voir https://iramat-apps.cnrs.fr/portal/)
+- projets
+  - [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
+  - [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
+ 
+  - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
-- [collec-science](https://github.com/iramat/collec-science) gestion des collections d'échantillon (_fork_ de [collec-science](https://github.com/collec-science/collec-science))
-
-_ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
-
 - [almacir-private](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
 - [aema-private](https://github.com/iramat/aema-private) développement de la base des données AeMA
 - [iRamat-private](https://github.com/iramat/iRamat-private) mutualisation du code R
 - [daq_iramat](https://github.com/iramat/daq_iramat) développement de PyMoDAQ pour l'instrumentation de l'IRAMAT
+  
+_ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
-## Actualités
-
-- Le IIIF à la Journée des doctorants de l'IRAMAT - [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) - Jeudi 12 février, 2026, MSH, Paris
-- Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, salle de réunion du LAPA, Saclay 
+- [collec-science](https://github.com/iramat/collec-science) gestion des collections d'échantillon (_fork_ de [collec-science](https://github.com/collec-science/collec-science))
 
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
@@ -45,4 +42,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 
 - ...
 
+## Autres
 
+- Le IIIF à la Journée des doctorants de l'IRAMAT - [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) - Jeudi 12 février, 2026, MSH, Paris
+- Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, salle de réunion du LAPA, Saclay 
