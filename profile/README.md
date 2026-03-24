@@ -21,6 +21,10 @@ _ . _ . _ . _ . _ . _ . _ . _ . 🧪/⌛ en test _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [collec-science](https://github.com/iramat/collec-science) gestion des collections d'échantillon (_fork_ de [collec-science](https://github.com/collec-science/collec-science))
 
+## Zenodo
+
+[Communauté IRAMAT sur Zenodo](https://zenodo.org/communities/iramat/records?q=&l=list&p=1&s=10&sort=newest)
+
 ## 🧮 WIAI
 > WIAI, Webinaires de l'Informatique pour l'Archéologie à l'IRAMAT
 
