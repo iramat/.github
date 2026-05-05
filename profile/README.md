@@ -34,13 +34,13 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 
 ### Les séances
 
-#### Passées
+#### Présentations passées
 
-1. **Présentation de GitHub** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-github/pres) | [video](https://sdrive.cnrs.fr/s/kZ32eLX6js6rBSW)- Mardi 8 juillet 2025, 10:00 - 10:50
-2. **Présentation du package R `iRamat`** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-iRamat/pres) | [video](https://sdrive.cnrs.fr/s/yP5DFgGXtF9ERQH) - Mardi 7 octobre 2025, 10:00 - 10:50
-3. **Présentation de la BDD 'CHIPS'** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-chips/pres) | [video](https://sdrive.cnrs.fr/s/yxeaEXAZ5WJnHt8) - Mardi 9 décembre 2025, 10:00 - 10:50
-4. **Présentation du cadre IIIF** - [support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres) - Mardi 10 Mars 2026, 10:00 - 10:50
-5. **Présentation de Jupyter Notebook** - [support](https://colab.research.google.com/drive/1VjwnkV_C53aSnlbnPMNpM4EXJVEUjHU6) - Mardi 5 Mai 2026, 10:00 - 10:50
+1. **GitHub** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-github/pres) | [video](https://sdrive.cnrs.fr/s/kZ32eLX6js6rBSW)- Mardi 8 juillet 2025, 10:00 - 10:50
+2. **package R `iRamat`** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-iRamat/pres) | [video](https://sdrive.cnrs.fr/s/yP5DFgGXtF9ERQH) - Mardi 7 octobre 2025, 10:00 - 10:50
+3. **BDD 'CHIPS'** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-chips/pres) | [video](https://sdrive.cnrs.fr/s/yxeaEXAZ5WJnHt8) - Mardi 9 décembre 2025, 10:00 - 10:50
+4. **cadre IIIF** - [support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres) - Mardi 10 Mars 2026, 10:00 - 10:50
+5. **Jupyter Notebook** - [support](https://colab.research.google.com/drive/1VjwnkV_C53aSnlbnPMNpM4EXJVEUjHU6) - Mardi 5 Mai 2026, 10:00 - 10:50
 
 #### Programmées
 
