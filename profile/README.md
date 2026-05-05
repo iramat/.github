@@ -40,7 +40,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 2. **Présentation du package R `iRamat`** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-iRamat/pres) | [video](https://sdrive.cnrs.fr/s/yP5DFgGXtF9ERQH) - Mardi 7 octobre 2025, 10:00 - 10:50
 3. **Présentation de la BDD 'CHIPS'** - [support](https://iramat.github.io/iramat-dev/talks/2025-wiai-chips/pres) | [video](https://sdrive.cnrs.fr/s/yxeaEXAZ5WJnHt8) - Mardi 9 décembre 2025, 10:00 - 10:50
 4. **Présentation du cadre IIIF** - [support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres) | video - Mardi 10 Mars 2026, 10:00 - 10:50
-5. **Présentation de Jupyter Notebook**: présentations web, interactives (APIs, IIIF, _geoweb_, etc.), et orientées "document de données" (_data-driven document_) avec Python et Markdown - Mardi 5 Mai 2026, 10:00 - 10:50 [support](https://colab.research.google.com/drive/1VjwnkV_C53aSnlbnPMNpM4EXJVEUjHU6)
+5. **Présentation de Jupyter Notebook** - Mardi 5 Mai 2026, 10:00 - 10:50 [support](https://colab.research.google.com/drive/1VjwnkV_C53aSnlbnPMNpM4EXJVEUjHU6)
 
 #### Programmées
 
