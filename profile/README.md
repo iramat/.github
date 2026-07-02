@@ -42,11 +42,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 4. **cadre IIIF** - [support](https://iramat.github.io/iramat-dev/talks/2026-wiai-iiif/pres) - Mardi 10 Mars 2026, 10:00 - 10:50
 5. **Jupyter Notebook** - [support](https://colab.research.google.com/drive/1VjwnkV_C53aSnlbnPMNpM4EXJVEUjHU6) - Mardi 5 Mai 2026, 10:00 - 10:50
 
-#### Programmées
-
-- ...
-
-#### A prévoir
+#### Programmées/A prévoir
 
 - ...
 
