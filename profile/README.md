@@ -54,4 +54,5 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 
 - Intérêt de l' _International Image Interoperability_ - [support](https://iramat.github.io/iramat-dev/talks/2026-prehst-iiif/pres/#/title-slide) - Mercredi 22 Avril, 2026, Laboratoire Études sur les Sciences et les Techniques, Orsay
 - Le IIIF à la Journée des doctorants de l'IRAMAT - [support](https://iramat.github.io/iramat-dev/talks/2026-jdd-iiif/pres) - Jeudi 12 février, 2026, MSH, Paris
+- ANR ALMACIR - Le système d’information: Numishare, package R, GitHub, Zenodo, site web - [support](https://iramat.github.io/iramat-dev/talks/2026-almacir-preparatory-meeting/pres) - 15 Janvier, 2026, LAPA, Saclay
 - Mutualisation des scripts R sur le _repo_ [iRamat-private](https://github.com/iramat/iRamat-private) - Mardi 9 décembre 2025, salle de réunion du LAPA, Saclay 
