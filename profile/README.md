@@ -10,6 +10,9 @@
 - [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
 - [almacir](https://github.com/iramat/almacir) ANR ALMACIR, monnayages d'Al-Andalus
 
+**orientés réseaux professionnels**
+- [GT BDD du réseau CAI-RN](https://github.com/iramat/cairn-gt-BDD)
+
 _ - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
 
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
