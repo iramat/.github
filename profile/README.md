@@ -47,7 +47,7 @@ L'IRAMAT organise les webinaires WIAI (prononcer "ouaille-aille") le 2<sup>e</su
 
 #### Programmées/A prévoir
 
-7. **IIIF et archéométallurgie** - [support](https://iramat.github.io/iramat-dev/talks/2027-wiai-metallograph/pres/#/title-slide) - Mardi 12 Janvier 2027, 10:00 - 10:50
+6. **IIIF et archéométallurgie** - [support](https://iramat.github.io/iramat-dev/talks/2027-wiai-metallograph/pres/#/title-slide) - Mardi 12 Janvier 2027, 10:00 - 10:50
 - ...
 
 ## Autres
