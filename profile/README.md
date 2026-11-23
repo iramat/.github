@@ -13,12 +13,17 @@
 **orientés réseaux professionnels**
 - [GT BDD du réseau CAI-RN](https://github.com/iramat/cairn-gt-BDD)
 
-_ - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction _ . _ . _ . _ . _ . _ . _ . _ .
+_ - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction 🚧/🚫_ . _ . _ . _ . _ . _ . _ . _ .
 
+**métallographie**
+- [metallograph](https://github.com/iramat/metallograph)
+**numismatique**
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
 - [almacir-private](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
 - [aema-private](https://github.com/iramat/aema-private) développement de la base des données AeMA
+**_statistical sofware_**
 - [iRamat-private](https://github.com/iramat/iRamat-private) mutualisation du code R
+**DAQ**
 - [daq_iramat](https://github.com/iramat/daq_iramat) développement de PyMoDAQ pour l'instrumentation de l'IRAMAT
 
   
