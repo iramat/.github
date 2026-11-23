@@ -1,6 +1,6 @@
 # Organisation du GitHub
 
-**orientés déveleppoment**
+**orientés développement**
 - [iramat-dev](https://github.com/iramat/iramat-dev) développement informatique (**général**)
 - [iramat-apps](https://github.com/iramat/iramat-apps) documentation des applications hebergées sur le serveur web <https://iramat-apps.cnrs.fr>: IIIF, RTI, GeoServer, etc.
 - [iramat-functions](https://github.com/iramat/iramat-functions) fonctions Python (infrastructuration) et [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
