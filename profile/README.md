@@ -3,8 +3,8 @@
 **orientés déveleppoment**
 - [iramat-dev](https://github.com/iramat/iramat-dev) développement informatique (**général**)
 - [iramat-apps](https://github.com/iramat/iramat-apps) documentation des applications hebergées sur le serveur web <https://iramat-apps.cnrs.fr>: IIIF, RTI, GeoServer, etc.
-- [iramat-functions](https://github.com/iramat/iramat-functions) développement fonctions Python (infrastructure)
-- [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
+- [iramat-functions](https://github.com/iramat/iramat-functions) fonctions Python (infrastructuration) et [iRamat](https://github.com/iramat/iRamat) fonctions R (analyse de données)
+- [iramat-devices](https://github.com/iramat/iramat-devices) wiki décrivant la/les plateformes techniques de l'IRAMAT
   
 **orientés projets**
 - [chips](https://github.com/iramat/chips) BDD chips, données physico-chimiques
