@@ -15,9 +15,9 @@
 
 _ - _ . _ . _ . _ . _ . _ . _ . _ . 🚫/🚧 privé/en construction 🚧/🚫_ . _ . _ . _ . _ . _ . _ . _ .
 
-**métallographie**
-- [metallograph](https://github.com/iramat/metallograph)
-**numismatique**
+**métallographie**  
+- [metallograph](https://github.com/iramat/metallograph)  
+**numismatique**  
 - [numishare](https://github.com/iramat/numishare) système d'information pour la numismatique (_fork_ de [numishare](https://github.com/ewg118/numishare))
 - [almacir-private](https://github.com/iramat/almacir-private) développement de l'infrastructure IT de l'ANR ALMACIR
 - [aema-private](https://github.com/iramat/aema-private) développement de la base des données AeMA
